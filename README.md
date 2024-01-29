@@ -1,2 +1,2 @@
-# scripts for wsl
-Bash Scripts for WSL to run on my CMD
+# backup 
+Bash backup script that allows me to backup information in my directory of choice.
